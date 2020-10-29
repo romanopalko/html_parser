@@ -1,0 +1,23 @@
+{
+    "name": "opalkor/html_parser",
+    "description": "Simple html parser.",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "S.C. Chen",
+            "homepage": "http://sourceforge.net/projects/simplehtmldom/"
+        },
+        {
+            "name": "Roman Opalko",
+            "email": "roman.opalko@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Opalkor\\HtmlParser\\": "src/"
+        }
+    },
+    "require": {}
+}
